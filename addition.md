@@ -5,3 +5,4 @@ zero. If you looked at a number line, and were told to add 2 + 3, you could star
 positions to the right relative to 2. It also works with negatives, except positive numbers strictly move right and negatives 
 will move left. An example of this is 17 plus -8. Start from zero and move right to the 17th positive position. Then, relative
 to 17, move left 8 places, which will leave you at 9.
+  Another example could be with larger numbers, like 100 minus 25. You start at zero, move right to the 100 mark, and now move left 25 pieces relative to 100. You will end at 75, because that is the position exactly 25 backwards of 100.
